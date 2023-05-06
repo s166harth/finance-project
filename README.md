@@ -1,6 +1,6 @@
 
 
-# Finance Project
+# Computational Finance Project
 
 This is a finance project that I worked on to gain hands-on experience in financial analysis and portfolio management.
 
